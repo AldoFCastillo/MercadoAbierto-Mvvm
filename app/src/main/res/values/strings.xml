@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">mercado.abierto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">
+        <b>Hello blank fragment</b>
+    </string>
+    <string name="open_hamburguesa">open_hamburguesa</string>
+    <string name="close_hamburguesa">close_hamburguesa</string>
+    <string name="ingresa_a_tu_cuenta_para_ver_tus_compras_favoritos_etc">Ingresa a tu cuenta para ver tus compras, favoritos, etc</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="hola">Hola</string>
+    <string name="nombre">nombre</string>
+    <string name="bienvenido_a">Bienvenido/a,</string>
+
+
+    <string name="historia">
+
+       "\n • Surgió en 1999 en plan de negocios por Aldo Castillo\n • Inició en Argentina y rápidamente se expandió a Brasil, Colombia, Chile, Ecuador, México, Uruguay, Venezuela y más recientemente a Perú\n • Su inversión inicial fue a partir de 2 rondas de financiamiento de 7.6 y 46.5 millones \n"
+
+
+    </string>
+
+    <string name="mision">
+
+        "\nConseguir que la gente use el servicio primero y luego que estén dispuestos a pagar por este servicio y asegurarnos que MercadoEsclavo sea una aplicación con los mas altos niveles de seguridad a nivel mundial \n"
+
+    </string>
+
+    <string name="vision">
+
+       "\n • Desarrollar una tecnología que sea escalable y un producto que sea fácil de usar para los usuarios en América Latina\n • Adaptar el modelo de Estados Unidos para que funcione en América Latina\n • Expandirnos a América Latina y ser los lideres en cada uno de los países donde operamos \n"
+
+    </string>
+
+    <string name="valores">
+
+        "\nDesarrollar una comunidad de intercambio leal y vivaz, esto es una piedra angular en el modelo de MercadoEsclavo. Esta comunidad se nutre mediante la comunicación franca y honesta y se erige sobre 5 valores fundamentales que la empresa espera que sus miembros honren:\n • Creemos que la gente es básicamente buena.\n • Creemos que alguien tiene algo que aportar.\n • Creemos que en un ambiente abierto y honesto puede hacer que brote lo mejor de la gente.\n • Reconocemos y aceptamos a cada quien como individuo único.\n • Les alentamos a tratar a los demás como quieres ser tratado. \n"
+
+    </string>
+
+    //NavigationView
+
+    <string name="navigation_login">Login</string>
+    <string name="navigation_favoritos">Favoritos</string>
+    <string name="navigation_estadisticas">Estadisticas</string>
+    <string name="navigation_notificaciones">Notificaciones</string>
+    <string name="navigation_perfil">Mi Perfil</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    //Facebook
+    <string name="facebook_app_id" translatable="false">2808726849147179</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb460337411500477</string>
+
+
+    //
+
+    <string name="Registrarse"><u>Registrarse</u></string>
+    <string name="Crear_cuenta"><u>Crear cuenta</u></string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="ingrese_sus_datos_para_completar_el_registro">Ingrese sus datos para completar el registro:</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="ya_estas_logueado">Ya estas logueado!</string>
+    <string name="hola_para_seguir_ingresa_tu_e_mail_o_usuario">Hola! Para seguir, ingresa tu e-mail y contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="mis_datos">Mis datos</string>
+    <string name="escribe_un_comentario_sobre_este_producto">Escribe un comentario sobre este producto</string>
+    <string name="comentario_pregunta"><u>Queres dejar un comentario?</u></string>
+    <string name="map_key">AIzaSyA7VwVw6iM6QSlyWJHLcaq4NhLekF-BZXo</string>
+    <string name="comentarios_sobre_el_producto">Comentarios sobre el producto:</string>
+    <string name="enviar">enviar</string>
+    <string name="escribe_tu_nombre_de_ussuario">escribe tu nombre de ussuario</string>
+
+</resources>

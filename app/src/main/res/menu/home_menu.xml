@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigationViewLoginItem"
+        android:title="@string/navigation_login">
+        <menu>
+
+            <item
+                android:id="@+id/navigationViewPerfil"
+                android:icon="@drawable/ic_streetview_black_24dp"
+                android:title="@string/navigation_perfil" />
+
+            <item
+                android:id="@+id/navigationViewFavoritosItem"
+                android:icon="@drawable/ic_favorite_black_24dp"
+                android:title="@string/navigation_favoritos" />
+
+            <item
+                android:id="@+id/navigationViewCerrarSesionItem"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Cerrar Sesion"
+                android:visible="true" />
+
+        </menu>
+
+
+    </item>
+
+    <item
+        android:id="@+id/separadorMercado"
+        android:title="@string/app_name" >
+        <menu>
+
+            <item
+                android:id="@+id/aboutUsMenuNavigation"
+                android:icon="@drawable/ic_people_black_24dp"
+                android:title="About us" />
+        </menu>
+
+    </item>
+
+</menu>

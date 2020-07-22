@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorMercado">#324CCC</color>
+
+    <!-- Fondos -->
+    <color name="colorFondoBlanco">#ffffff</color>
+    <color name="colorFondoGris">#E9E7E7</color>
+    <color name="colorFondoAmarilloClaro">#FFEB3B</color>
+    <color name="colorFondoAmarillo">#F0D503</color>
+
+    <!-- Textos #7c0003-->
+    <color name="colorTextoClaro">#9C9797</color>
+    <color name="colorTextoOscuro">#000000</color>
+    <color name="colorTextoBlanco">#ffffff</color>
+
+</resources>

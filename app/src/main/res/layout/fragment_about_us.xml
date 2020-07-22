@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFondoBlanco"
+    android:orientation="vertical"
+    tools:context=".view.fragment.AboutUsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorFondoBlanco"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewTituloAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@color/colorFondoAmarilloClaro"
+            android:gravity="center"
+            android:text="About us"
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/buttonHistoriaAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/colorFondoBlanco"
+            android:text="Historia"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewHistoriaAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:paddingStart="10dp"
+            android:text="@string/historia"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/buttonMisionAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/colorFondoBlanco"
+            android:text="Mision"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewMisionAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorFondoBlanco"
+            android:paddingStart="10dp"
+            android:text="@string/mision"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/buttonVisionAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/colorFondoBlanco"
+            android:text="Vision"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewVisionAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorFondoBlanco"
+            android:paddingStart="10dp"
+            android:text="@string/vision"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/buttonValoresAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/colorFondoBlanco"
+            android:text="Valores"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewValoresAboutFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorFondoBlanco"
+            android:paddingStart="10dp"
+            android:text="@string/valores"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</ScrollView>

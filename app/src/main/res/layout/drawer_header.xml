@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorFondoAmarillo"
+    android:orientation="vertical"
+    android:layout_marginTop="0dp"
+    android:layout_marginBottom="10dp"
+    tools:ignore="PrivateResource,Overdraw">
+
+
+
+        <ImageView
+            android:id="@+id/imageViewHeaderNavigation"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_portrait_black_24dp"
+            android:layout_marginBottom="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/textViewBienvenidaHeaderNavigation" />
+
+
+
+        <TextView
+            android:id="@+id/textViewBienvenidaHeaderLogNombre"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:paddingStart="10dp"
+            android:textColor="@color/colorTextoOscuro"
+            android:textSize="20sp"
+            android:text="@string/nombre"
+            android:visibility="gone"
+            android:layout_marginTop="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toEndOf="@id/imageViewHeaderNavigation"
+            app:layout_constraintTop_toTopOf="@id/imageViewHeaderNavigation"  />
+
+        <TextView
+            android:id="@+id/textViewBienvenidaHeaderNavigation"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:paddingStart="10dp"
+            android:text="@string/bienvenido_a"
+            android:textColor="@color/colorTextoOscuro"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/textViewTextHeaderNavigation"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toEndOf="@id/imageViewHeaderNavigation"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewTextHeaderNavigation"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:paddingStart="10dp"
+            android:text="@string/ingresa_a_tu_cuenta_para_ver_tus_compras_favoritos_etc"
+            android:textColor="@color/colorTextoClaro"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toEndOf="@id/imageViewHeaderNavigation"
+            app:layout_constraintTop_toBottomOf="@id/textViewBienvenidaHeaderNavigation" />
+
+        <TextView
+            android:id="@+id/textViewIngresarHeader"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#4664E4"
+            android:gravity="center"
+            android:text="@string/ingresar"
+            android:textColor="@color/colorTextoBlanco"
+            android:textSize="16sp"
+            app:layout_constraintTop_toBottomOf="@id/textViewTextHeaderNavigation"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+
