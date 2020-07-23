@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.User;
+import com.example.mercadoabierto2_mvvm.model.pojo.User;
 import com.example.mercadoabierto2_mvvm.DataSource.UserDataSource;
 
 import com.google.firebase.auth.FirebaseUser;

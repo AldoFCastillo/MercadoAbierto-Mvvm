@@ -1,4 +1,4 @@
-package com.example.mercadoabierto2_mvvm.pojo.pojo;
+package com.example.mercadoabierto2_mvvm.model.pojo;
 
 public class Comment {
 

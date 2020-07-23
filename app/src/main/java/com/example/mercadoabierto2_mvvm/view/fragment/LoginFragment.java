@@ -19,7 +19,7 @@ import androidx.lifecycle.ViewModelProviders;
 
 import com.example.mercadoabierto2_mvvm.R;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.User;
+import com.example.mercadoabierto2_mvvm.model.pojo.User;
 import com.example.mercadoabierto2_mvvm.view.activitiy.MainActivity;
 import com.example.mercadoabierto2_mvvm.viewModel.UserViewModel;
 import com.google.firebase.auth.FirebaseAuth;

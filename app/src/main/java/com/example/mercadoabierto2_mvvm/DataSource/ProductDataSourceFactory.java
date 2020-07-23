@@ -4,7 +4,7 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.paging.DataSource;
 import androidx.paging.PageKeyedDataSource;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
 
 public class ProductDataSourceFactory extends DataSource.Factory {
 

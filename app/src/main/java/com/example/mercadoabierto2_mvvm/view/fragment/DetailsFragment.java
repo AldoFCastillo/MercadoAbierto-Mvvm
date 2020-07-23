@@ -26,12 +26,12 @@ import androidx.viewpager.widget.ViewPager;
 import com.airbnb.lottie.LottieAnimationView;
 import com.example.mercadoabierto2_mvvm.R;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Comment;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Description;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Picture;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.User;
+import com.example.mercadoabierto2_mvvm.model.pojo.Comment;
+import com.example.mercadoabierto2_mvvm.model.pojo.Description;
+import com.example.mercadoabierto2_mvvm.model.pojo.Picture;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.User;
 import com.example.mercadoabierto2_mvvm.view.adapter.CommentsAdapter;
 import com.example.mercadoabierto2_mvvm.view.adapter.ViewPagerAdapter;
 import com.example.mercadoabierto2_mvvm.viewModel.ProductViewModel;

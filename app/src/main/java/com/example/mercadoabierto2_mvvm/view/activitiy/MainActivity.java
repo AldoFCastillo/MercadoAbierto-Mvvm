@@ -26,10 +26,10 @@ import androidx.lifecycle.ViewModelProviders;
 import com.example.mercadoabierto2_mvvm.view.fragment.IntroFragment;
 import com.example.mercadoabierto2_mvvm.R;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.User;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.User;
 import com.example.mercadoabierto2_mvvm.view.fragment.AboutUsFragment;
 import com.example.mercadoabierto2_mvvm.view.fragment.FavsFragment;
 import com.example.mercadoabierto2_mvvm.view.fragment.LoginFragment;

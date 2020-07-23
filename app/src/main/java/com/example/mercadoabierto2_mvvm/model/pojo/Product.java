@@ -1,4 +1,4 @@
-package com.example.mercadoabierto2_mvvm.pojo.pojo;
+package com.example.mercadoabierto2_mvvm.model.pojo;
 
 import com.google.gson.annotations.SerializedName;
 

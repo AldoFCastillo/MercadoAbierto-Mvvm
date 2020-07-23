@@ -16,8 +16,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.mercadoabierto2_mvvm.R;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.User;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.User;
 import com.example.mercadoabierto2_mvvm.view.adapter.ProductDetailsAdapter;
 import com.example.mercadoabierto2_mvvm.viewModel.ProductViewModel;
 import com.example.mercadoabierto2_mvvm.viewModel.UserViewModel;

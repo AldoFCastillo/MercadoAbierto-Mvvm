@@ -1,18 +1,12 @@
-package com.example.mercadoabierto2_mvvm.pojo.pojo;
+package com.example.mercadoabierto2_mvvm.model.pojo;
 
-import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.mercadoabierto2_mvvm.service.MercadoServiceApi;
-import com.example.mercadoabierto2_mvvm.service.RetrofitInstance;
 
 import com.google.gson.annotations.SerializedName;
 
 import java.io.Serializable;
-
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 
 public class Description implements Serializable {
 

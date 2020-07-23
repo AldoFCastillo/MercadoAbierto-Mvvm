@@ -5,8 +5,8 @@ import androidx.annotation.NonNull;
 
 import androidx.paging.PageKeyedDataSource;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Result;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.Result;
 import com.example.mercadoabierto2_mvvm.service.RetrofitInstance;
 
 import retrofit2.Call;

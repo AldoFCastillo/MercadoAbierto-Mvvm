@@ -1,8 +1,8 @@
 package com.example.mercadoabierto2_mvvm.service;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Description;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Result;
+import com.example.mercadoabierto2_mvvm.model.pojo.Description;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.Result;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

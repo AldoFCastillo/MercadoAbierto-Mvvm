@@ -15,10 +15,10 @@ import com.example.mercadoabierto2_mvvm.DataSource.DetailsDataSource;
 import com.example.mercadoabierto2_mvvm.DataSource.ProductDataSource;
 import com.example.mercadoabierto2_mvvm.DataSource.ProductDataSourceFactory;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Comment;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Description;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.Comment;
+import com.example.mercadoabierto2_mvvm.model.pojo.Description;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
 
 import java.util.List;
 

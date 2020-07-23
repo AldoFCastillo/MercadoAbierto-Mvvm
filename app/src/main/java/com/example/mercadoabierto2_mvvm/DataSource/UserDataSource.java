@@ -1,19 +1,12 @@
 package com.example.mercadoabierto2_mvvm.DataSource;
 
 
-import android.content.Context;
-import android.view.View;
-import android.widget.Toast;
-
 import androidx.annotation.NonNull;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
-import androidx.lifecycle.Observer;
 
 
-import com.bumptech.glide.load.ImageHeaderParser;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.User;
+import com.example.mercadoabierto2_mvvm.model.pojo.User;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;

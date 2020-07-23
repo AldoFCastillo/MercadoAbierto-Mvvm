@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.example.mercadoabierto2_mvvm.R;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
 
 import java.text.NumberFormat;
 

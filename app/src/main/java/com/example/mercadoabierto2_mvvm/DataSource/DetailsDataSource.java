@@ -1,14 +1,12 @@
 package com.example.mercadoabierto2_mvvm.DataSource;
 
-import android.text.BoringLayout;
-
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Comment;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Description;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.Comment;
+import com.example.mercadoabierto2_mvvm.model.pojo.Description;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
 
 import com.example.mercadoabierto2_mvvm.service.RetrofitInstance;
 import com.google.android.gms.tasks.OnSuccessListener;

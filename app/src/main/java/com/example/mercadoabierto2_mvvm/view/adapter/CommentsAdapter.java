@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.mercadoabierto2_mvvm.R;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Comment;
+import com.example.mercadoabierto2_mvvm.model.pojo.Comment;
 
 import java.util.List;
 

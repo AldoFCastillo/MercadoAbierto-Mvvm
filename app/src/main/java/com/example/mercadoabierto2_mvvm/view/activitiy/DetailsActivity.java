@@ -9,12 +9,10 @@ import androidx.fragment.app.Fragment;
 import androidx.viewpager.widget.ViewPager;
 
 import com.example.mercadoabierto2_mvvm.R;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Picture;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.Product;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.Product;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
 import com.example.mercadoabierto2_mvvm.view.adapter.ViewPagerAdapter;
 import com.example.mercadoabierto2_mvvm.view.fragment.DetailsFragment;
-import com.example.mercadoabierto2_mvvm.view.fragment.ImageFragment;
 
 
 import java.util.ArrayList;

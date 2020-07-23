@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 
 import com.example.mercadoabierto2_mvvm.R;
-import com.example.mercadoabierto2_mvvm.pojo.pojo.ProductDetails;
+import com.example.mercadoabierto2_mvvm.model.pojo.ProductDetails;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
